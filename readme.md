@@ -1,4 +1,4 @@
-# Canny Edge Detection — Simple README
+# Canny Edge Detection
 
 ## Overview
 
